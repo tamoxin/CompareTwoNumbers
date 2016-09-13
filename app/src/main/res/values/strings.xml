@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Compare Two Numbers</string>
+    <string name="number1">Number 1</string>
+    <string name="number2">Number 2</string>
+    <string name="comparison">Comparison: </string>
+    <string name="calculate">Calculate</string>
+    <string name="error">Error Message</string>
+    <string name="addition">Addition: </string>
+    <string name="subtraction">Subtraction: </string>
+    <string name="product">Product: </string>
+    <string name="division">Division: </string>
+    <string name="clear">Clear</string>
+    <string name="greatest">"The greatest number is: "</string>
+    <string name="equivalent">They are equivalent</string>
+</resources>

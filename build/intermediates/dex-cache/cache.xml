@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8893c740adb6a8398957dc8707b9f2cd7a4dcbd1">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1a2abb14d2b4563e9d4a834f077e2ba21389df03\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e15266b9b399a77a35bc7d21276ac36e6e7c861f">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_3d6fa5e7c71152591321c0f1d7e1dca31c07becd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cf3771347d338097b9427fb53e39d0a300190a7b">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_64b0c54cdd75b6f934c62d07718cb037ff69e759\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="107aec71105cbe57bf9388a8b194a4d2d5b1894f">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_5eec7e40e6a4036dee6fd2497202720315915bc1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1e9af8f2d557bfbd52c656f1242b66be61715384">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_547e290eb77fd4b5c0f371750c03b5cd3fde5647\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\marco\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cb073666daff103d859e8d6e6b33d44ce0443abb">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_dc3064d470d9a17b0e0782109f92a7e47dae68e2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6ece53583864cf937c488066e78361992af2732a">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_7d7978ff646c649748b70df587cd54d4aa34ce1f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_381139a36ea68c5b1d099c5566f7d9fb93f349c3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="18f43dd44e4ad4e66f1a76fea7874644c5633bd2">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_21649dc9f00037191759127a50e657975c41c9dc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="05ecb0d4383ff9ab5f66108fbe8c8d3f0fefc475">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_2c6ed8d4194ecc8a61d0d531072d79de3d4a05c1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="87df1bae35b680ec2c862f429e2a43772c964edd">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_de088c8f7d933274c07ab88cacf9b58e7389da1d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="eecf2b5f10f43196d10d1d6dfa6972d5ded6aaeb">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_09882c58f95d3808b833f23aa504f560afea37ff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d5795750d1cd3cca83c1e3dbba05b84241c6068f">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_92358598fd8a1ae6195484bf9f2f0860af079839\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="68e64d942287b041b1e7d7d0348803904cae2334">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4ec8375dc673c8b19c53234f2eee9a84b8ca293e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4722c94595ca5e2a708b6761ed3ca0e6e8be7862">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_c858224cc1fc1e9776ca86e2bc77ed270dca81d2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="df7ff32a592f169e89a7787fb434e0c623eaefa9">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_76d4ae05d5c9b43984fc55663a152357b281a4e9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5676b0e5b6e8fb6fa941ed138c8d88d028d0f94b">
+        <dex dex="C:\Users\marco\AndroidStudioProjects\CompareTwoNumbers\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_63bbf926de14856d0b9f43ec74237396e6260237\classes.dex" />
+    </item>
+
+</items>
